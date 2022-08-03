@@ -1,3 +1,4 @@
+Olá.
 Meu nome é Lucas Vinícius Bonesso Paschoalotto.
 
 Sou licenciado em Física pela UNESP e atualmente em transição de carreira na área de Tecnologia.
