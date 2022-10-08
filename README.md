@@ -12,3 +12,5 @@ Afinidade com as linguagens utilizadas no Desenvolvimento Front-End como JavaScr
 - Perfil DIO: https://web.dio.me/users/lucas_paschoaloto
 
 - Perfil Alura: https://cursos.alura.com.br/user/lucas-paschoalotto
+
+- Email: lucas.paschoaloto@hotmail.com
